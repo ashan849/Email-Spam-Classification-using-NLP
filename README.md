@@ -4,11 +4,9 @@
 
 - [Project Overview](#project-overview)  
 - [Dataset](#dataset)  
-- [Methodology](#methodology)  
-- [Installation](#installation)  
-- [Usage](#usage)  
+- [Methodology](#methodology)   
 - [Evaluation Metrics](#evaluation-metrics)  
-- [Results](#results)  
+ 
 
 ---
 
